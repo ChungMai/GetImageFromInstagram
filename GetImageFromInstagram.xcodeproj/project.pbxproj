@@ -16,7 +16,6 @@
 		F482F8721C426060004CCA64 /* PinImage.png in Resources */ = {isa = PBXBuildFile; fileRef = F482F8711C426060004CCA64 /* PinImage.png */; };
 		F4836DA41C19CBD400916BD0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F4836DA31C19CBD400916BD0 /* main.m */; };
 		F4836DA71C19CBD400916BD0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F4836DA61C19CBD400916BD0 /* AppDelegate.m */; };
-		F4836DAA1C19CBD400916BD0 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F4836DA91C19CBD400916BD0 /* MainViewController.m */; };
 		F4836DAD1C19CBD400916BD0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4836DAB1C19CBD400916BD0 /* Main.storyboard */; };
 		F4836DAF1C19CBD400916BD0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4836DAE1C19CBD400916BD0 /* Images.xcassets */; };
 		F4836DB21C19CBD400916BD0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F4836DB01C19CBD400916BD0 /* LaunchScreen.xib */; };
@@ -85,8 +84,6 @@
 		F4836DA31C19CBD400916BD0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F4836DA51C19CBD400916BD0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F4836DA61C19CBD400916BD0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		F4836DA81C19CBD400916BD0 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
-		F4836DA91C19CBD400916BD0 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		F4836DAC1C19CBD400916BD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F4836DAE1C19CBD400916BD0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		F4836DB11C19CBD400916BD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -219,8 +216,6 @@
 				F4836DCD1C19D2DA00916BD0 /* AFNetworking */,
 				F4836DA51C19CBD400916BD0 /* AppDelegate.h */,
 				F4836DA61C19CBD400916BD0 /* AppDelegate.m */,
-				F4836DA81C19CBD400916BD0 /* MainViewController.h */,
-				F4836DA91C19CBD400916BD0 /* MainViewController.m */,
 				F4836DAB1C19CBD400916BD0 /* Main.storyboard */,
 				F4836DAE1C19CBD400916BD0 /* Images.xcassets */,
 				F4836DA11C19CBD400916BD0 /* Supporting Files */,
@@ -512,7 +507,6 @@
 				F48591191C1A4B2700AFEDA9 /* UIProgressView+AFNetworking.m in Sources */,
 				F45AC92F1C35232E0072CB31 /* IKCell.m in Sources */,
 				F4836DE81C19D2DA00916BD0 /* AFURLResponseSerialization.m in Sources */,
-				F4836DAA1C19CBD400916BD0 /* MainViewController.m in Sources */,
 				F4836DCC1C19CFB800916BD0 /* InstagramEngine.m in Sources */,
 				F49341031C1D2DEF003AB0FC /* InstagramMedia.m in Sources */,
 				F48591171C1A4B2700AFEDA9 /* UIButton+AFNetworking.m in Sources */,

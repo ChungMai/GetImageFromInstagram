@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15280A8E-96D5-4D01-B093-30CFC45B8533</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GetImageFromInstagram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A34ED647BD371812CCCFF119D3B7B9B2774FA251</key>
+		<string>https://github.com/ChungMai/GetImageFromInstagram.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GetImageFromInstagram.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A34ED647BD371812CCCFF119D3B7B9B2774FA251</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ChungMai/GetImageFromInstagram.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A34ED647BD371812CCCFF119D3B7B9B2774FA251</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A34ED647BD371812CCCFF119D3B7B9B2774FA251</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GetImageFromInstagram</string>
+		</dict>
+	</array>
+</dict>
+</plist>

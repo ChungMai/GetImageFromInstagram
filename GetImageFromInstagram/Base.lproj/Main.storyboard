@@ -143,53 +143,6 @@
             </objects>
             <point key="canvasLocation" x="-605" y="1680"/>
         </scene>
-        <!--Collection View Controller-->
-        <scene sceneID="t1a-Qa-8vv">
-            <objects>
-                <collectionViewController storyboardIdentifier="CustomAnnotationView" id="h6z-8L-fcM" sceneMemberID="viewController">
-                    <collectionView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" id="N8m-rx-ZpN">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="Szy-W4-g2N">
-                            <size key="itemSize" width="121" height="128"/>
-                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
-                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
-                            <inset key="sectionInset" minX="1" minY="0.0" maxX="1" maxY="0.0"/>
-                        </collectionViewFlowLayout>
-                        <cells>
-                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="HH2-Cw-tAv">
-                                <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
-                                <autoresizingMask key="autoresizingMask"/>
-                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
-                                    <rect key="frame" x="0.0" y="0.0" width="106" height="106"/>
-                                    <autoresizingMask key="autoresizingMask"/>
-                                    <subviews>
-                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DoA-cu-4sM">
-                                            <rect key="frame" x="0.0" y="0.0" width="106" height="106"/>
-                                        </imageView>
-                                    </subviews>
-                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                </view>
-                                <constraints>
-                                    <constraint firstItem="DoA-cu-4sM" firstAttribute="top" secondItem="HH2-Cw-tAv" secondAttribute="top" id="cub-iA-lrb"/>
-                                    <constraint firstAttribute="bottom" secondItem="DoA-cu-4sM" secondAttribute="bottom" id="fAY-rZ-DXI"/>
-                                    <constraint firstItem="DoA-cu-4sM" firstAttribute="leading" secondItem="HH2-Cw-tAv" secondAttribute="leading" id="mcU-75-JQn"/>
-                                    <constraint firstAttribute="trailing" secondItem="DoA-cu-4sM" secondAttribute="trailing" id="ndG-BL-uht"/>
-                                </constraints>
-                                <size key="customSize" width="106" height="106"/>
-                            </collectionViewCell>
-                        </cells>
-                        <connections>
-                            <outlet property="dataSource" destination="h6z-8L-fcM" id="5Gm-3h-WNI"/>
-                            <outlet property="delegate" destination="h6z-8L-fcM" id="g4l-rq-SVO"/>
-                        </connections>
-                    </collectionView>
-                </collectionViewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="GTl-GK-tf2" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-1219" y="2401"/>
-        </scene>
         <!--Login-->
         <scene sceneID="3hs-AZ-HbF">
             <objects>
