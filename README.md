@@ -1,3 +1,7 @@
 # GetImageFromInstagram
 
-![alt tag](https://www.dropbox.com/s/lyogasvcm08p1e4/Login.png)
+![alt tag](https://github.com/ChungMai/Image/blob/master/Login.png)
+
+![Alt text](https://github.com/ChungMai/Image/blob/master/Login.png "Optional title")
+
+https://github.com/ChungMai/Image/blob/master/Login.png
